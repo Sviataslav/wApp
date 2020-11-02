@@ -1,0 +1,30 @@
+h1{ 
+    color:grey;
+    font-size: xx-large;
+}
+img{
+    width: 700px;
+}
+.footer{
+    position: absolute;
+    bottom: 15px;
+}
+.err{
+    color: red;
+    font-size: medium;
+}
+body{
+    font-family: arial;
+    text-align: center;
+}
+input{
+    border: 1px solid grey;
+    padding: 8px;
+}
+button{
+    cursor: pointer;
+    border: 1px solid #888888;
+    background-color: #888888;
+    color: white;
+    padding: 8px;
+}
